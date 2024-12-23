@@ -6,7 +6,7 @@
 
  body {font: 16px newYorker, Sans-Serif; 
             line-height: 24px; 
-            background-color: #bddae0;} 
+            background-color: #fefcff;} 
          
         .clear { clear: both; }
         
@@ -19,7 +19,7 @@
              font-size: 42px; 
              font-weight: bold; 
              letter-spacing: -2px; 
-             border-bottom: 2px solid #f4d54c; }
+             border-bottom: 2px solid #f3701b; }
         
          h2 { font-size:20; 
              margin: 0 0 6px 0; 
@@ -35,7 +35,7 @@
         
          p { margin: 0 0 16px 0;color: #666}
         
-         a { color: #04a8b0; text-decoration: none; border-bottom: 1px dotted #f4d54c; }
+         a { color: #04a8b0; text-decoration: none; border-bottom: 1px dotted #f3701b; }
          a:hover { border-bottom-style: solid; color: black; }
          ul { margin: 0 0 32px 17px; }
          #objective { width: 450px; float: left; }
@@ -50,7 +50,7 @@
              width: 150px; 
              float: left; 
              height: 230px; 
-             border-right: 2px solid #f4d54c;}
+             border-right: 2px solid #f3701b;}
          
          dt {font-weight: bold; 
              font-family: newYorker; 
@@ -61,7 +61,7 @@
              width: 150px; 
              float: left; 
              height: 340px; 
-             border-right: 2px solid #f4d54c;}
+             border-right: 2px solid #f3701b;}
         
          dt1 {font-family: newYorker; 
              font-weight: bold; 
@@ -72,7 +72,7 @@
              width: 150px; 
              float: left; 
              height: 35px; 
-             border-right: 2px solid #f4d54c;}
+             border-right: 2px solid #f3701b;}
          
         dt2 {font-family: newYorker; 
             font-weight: bold; 
@@ -83,7 +83,7 @@
             width: 150px; 
             float: left; 
             height: 360px; 
-            border-right: 2px solid #f4d54c;  }
+            border-right: 2px solid #f3701b;  }
         
          dt3 {font-family: newYorker; 
              font-weight: bold; 
@@ -94,7 +94,7 @@
              width: 150px; 
              float: left; 
              height: 100px; 
-             border-right: 2px solid #f4d54c;}         
+             border-right: 2px solid #f3701b;}         
          
          dd {width: 600px; float: right;color: #666; font-family: Georgia, Serif;}
         
